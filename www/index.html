@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="./js/jquery-2.2.2.min.js"></script>
+	</head>
+	<body>
+
+	<div>
+		<h1>index</h1>
+		<h1><a href="./html/application/index.html">application</a></h1>
+		<h1><a href="./html/message/index.html">message</a></h1>
+		<h1><a href="./html/approve/index.html">approve</a></h1>
+	</div>
+	<script>
+		//ajax测试
+		$.get({
+			url: '/api/index',
+			success: function(data){
+				console.log(data);
+			}
+		});
+	</script>
+
+
+	</body>
+</html>

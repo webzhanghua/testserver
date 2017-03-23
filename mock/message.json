@@ -1,0 +1,34 @@
+{
+    "statusCode": 200,
+    "message": "操作成功",
+    "method": null,
+    "params": {
+        "monthrecord": {
+            "content": [
+                {"staffjobid":"001",
+                "staffname":"two",
+                "deptname":"three",
+                "latelong":"1",
+                "earlylong":"0",
+                "absenthour":"1",
+                "leaveday":"0",
+                "isnormal":"0"
+                },{"staffjobid":"002",
+                "staffname":"two",
+                "deptname":"three",
+                "latelong":"0",
+                "earlylong":"0",
+                "absenthour":"0",
+                "leaveday":"0",
+                "isnormal":"1"
+                },{"staffjobid":"003",
+                "staffname":"two",
+                "deptname":"three",
+                "latelong":"0",
+                "earlylong":"0",
+                "absenthour":"0",
+                "leaveday":"0",
+                "isnormal":"1"}]
+          }
+    }
+}

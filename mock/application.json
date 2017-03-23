@@ -1,0 +1,44 @@
+{
+    "statusCode": 200,
+    "message": "操作成功",
+    "method": null,
+    "params": {
+        "dayrecord": {
+            "content": [
+                {
+                  "staffjobid":"06452",
+                  "staffname":"小明",
+                  "deptname":"人力云",
+                  "date":"1457145072085",
+                  "begintime":"1457145072085",
+                  "endtime":"1457145072085",
+                  "latelong":"xx",
+                  "earlylong":"yy",
+                  "absenthour":"2",
+                  "leaveday":"3"
+               },{
+                  "staffjobid":"06452",
+                  "staffname":"小红",
+                  "deptname":"人力云",
+                  "date":"1457145072085",
+                  "begintime":"1457145072085",
+                  "endtime":"1457145072085",
+                  "latelong":"xx",
+                  "earlylong":"yy",
+                  "absenthour":"2",
+                  "leaveday":"3"
+               },{
+                  "staffjobid":"06452",
+                  "staffname":"李四",
+                  "deptname":"人力云",
+                  "date":"1457145072085",
+                  "begintime":"1457145072085",
+                  "endtime":"1457145072085",
+                  "latelong":"xx",
+                  "earlylong":"yy",
+                  "absenthour":"2",
+                  "leaveday":"3"
+               }]
+          }
+    }
+}
